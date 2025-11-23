@@ -2,6 +2,9 @@
 # Semi-Autonomous Mobile Platform (SAMP)
 **FOSSEE Screening Task 1 Submission**
 
+## 🎥 Video Demonstration
+### [Click Here to Watch the Project Demo on YouTube](https://youtu.be/VFBYiy64r78)
+
 
 <img width="701" height="655" alt="image" src="https://github.com/user-attachments/assets/3be70df8-6deb-48da-ba4e-8ccda00e80d3" />
 
